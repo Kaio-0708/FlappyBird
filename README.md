@@ -1,3 +1,4 @@
+
 # Jogo Flappy Bird com Pygame
 
 Este é um jogo estilo Flappy Bird desenvolvido utilizando a biblioteca Pygame em Python. O objetivo do jogo é controlar um pássaro para que ele passe pelos obstáculos (canos) sem colidir, acumulando a maior pontuação possível.
@@ -41,7 +42,7 @@ python main.py
 
  ## Uso
 
-![Captura de tela 2024-08-31 035355]
+![Captura de tela 2024-09-09 021654](https://github.com/user-attachments/assets/a5c9522a-a9d1-4a5c-b09e-9b34b0cdcd24)
 
 ## Autor
 

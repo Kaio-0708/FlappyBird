@@ -39,6 +39,10 @@ python main.py
 - Imagens de sprites do jogo armazenadas na pasta **imgs/**.
 - Bibliotecas do Pygame para manipulação de gráficos, animações e colisões.
 
+ ## Uso
+
+![Captura de tela 2024-08-31 035355]
+
 ## Autor
 
 Kaio Vitor - [GitHub](https://github.com/Kaio-0708)
